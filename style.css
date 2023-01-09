@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+input {
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    font-size: 30px;
+    padding: 10px;
+    background-color: yellow;
+}
+
+.btn {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(126, 126, 126);
+    /* font-size: 30px; */
+}
+
+h2 {
+    margin-right: 90px;
+}
+
+ul {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
